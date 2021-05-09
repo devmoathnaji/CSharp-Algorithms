@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj": {}
+    "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj": {
+    "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\Algorithms\\Algorithms.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj"
+        "projectPath": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\Algorithms\\Algorithms.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj": {
+    "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
+        "projectUniqueName": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
         "projectName": "C-Sharp-Algorithms-Test",
-        "projectPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
+        "projectPath": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
         "packagesPath": "C:\\Users\\mamn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\obj\\",
+        "outputPath": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\C-Sharp-Algorithms-Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,8 +41,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj": {
-                "projectPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj"
+              "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\Algorithms\\Algorithms.csproj": {
+                "projectPath": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\Algorithms\\Algorithms.csproj"
               }
             }
           }

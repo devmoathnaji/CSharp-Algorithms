@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6tM/fXUrOBq3Gic7aCDEDOIEGmikfMX/7cWYhgJ5kT5QMTYPl0XKqqCsL0/EuI5h1Ak2c58Hr3KGHP3aELvLQ==",
+  "dgSpecHash": "4gTSwTQ6DthujOCOIOr5kKvbrKV1/NGZCjxG3QXledBMkW+UDDvgLgxkb94dVP7Q9JK0y0PSo8NqDZv8FYd4qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
+  "projectFilePath": "D:\\mine-dev\\AlgorithmsMine\\CSharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mamn\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\mamn\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
