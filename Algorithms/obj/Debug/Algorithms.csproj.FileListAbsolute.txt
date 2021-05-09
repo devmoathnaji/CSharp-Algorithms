@@ -4,3 +4,9 @@ C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.cs
 C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
 C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.dll
 C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+D:\mine-dev\AlgorithmsMine\CSharp-Algorithms\Algorithms\bin\Debug\Algorithms.dll
+D:\mine-dev\AlgorithmsMine\CSharp-Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+D:\mine-dev\AlgorithmsMine\CSharp-Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+D:\mine-dev\AlgorithmsMine\CSharp-Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+D:\mine-dev\AlgorithmsMine\CSharp-Algorithms\Algorithms\obj\Debug\Algorithms.dll
+D:\mine-dev\AlgorithmsMine\CSharp-Algorithms\Algorithms\obj\Debug\Algorithms.pdb
