@@ -13,6 +13,7 @@ namespace C_Sharp_Algorithms_Test
             IList<int> items = new List<int> { 1, 2, 3, 4, 5, 6, 7 };
             BinarySearcher<int> binarySearcher = new BinarySearcher<int>(items, Comparer<int>.Default);
             var x = binarySearcher.BinarySearch(2);
+            Assert.Equal(1, x);
         }
     }
 }
