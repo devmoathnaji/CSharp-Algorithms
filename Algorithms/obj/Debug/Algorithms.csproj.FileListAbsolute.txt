@@ -1,0 +1,6 @@
+C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\mamn\source\repos\C-Sharp-Algorithms\Algorithms\obj\Debug\Algorithms.pdb

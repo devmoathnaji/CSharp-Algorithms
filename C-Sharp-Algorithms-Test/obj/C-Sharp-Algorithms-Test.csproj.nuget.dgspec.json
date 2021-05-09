@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
+        "projectName": "C-Sharp-Algorithms-Test",
+        "projectPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\C-Sharp-Algorithms-Test.csproj",
+        "packagesPath": "C:\\Users\\mamn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\C-Sharp-Algorithms-Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mamn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj": {
+                "projectPath": "C:\\Users\\mamn\\source\\repos\\C-Sharp-Algorithms\\Algorithms\\Algorithms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
