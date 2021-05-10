@@ -46,6 +46,8 @@
     <Compile Include="Search\BinarySearcher.cs" />
     <Compile Include="Search\BubbleSorter.cs" />
     <Compile Include="Search\BucketSorter.cs" />
+    <Compile Include="Search\CombSorter.cs" />
+    <Compile Include="Search\ShellSorter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
