@@ -44,11 +44,12 @@
     <Compile Include="Common\Helpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Search\BinarySearcher.cs" />
-    <Compile Include="Search\BubbleSorter.cs" />
-    <Compile Include="Search\BucketSorter.cs" />
-    <Compile Include="Search\CombSorter.cs" />
-    <Compile Include="Search\CountingSorter.cs" />
-    <Compile Include="Search\ShellSorter.cs" />
+    <Compile Include="Sorter\BubbleSorter.cs" />
+    <Compile Include="Sorter\BucketSorter.cs" />
+    <Compile Include="Sorter\CombSorter.cs" />
+    <Compile Include="Sorter\CountingSorter.cs" />
+    <Compile Include="Sorter\CycleSorter.cs" />
+    <Compile Include="Sorter\ShellSorter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

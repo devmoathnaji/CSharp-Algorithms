@@ -1,7 +1,5 @@
-﻿using Algorithms.Search;
-using System;
+﻿using Algorithms.Sorter;
 using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace C_Sharp_Algorithms_Test

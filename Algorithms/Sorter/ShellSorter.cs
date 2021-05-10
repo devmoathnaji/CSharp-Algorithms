@@ -1,7 +1,7 @@
 ﻿using Algorithms.Common;
 using System.Collections.Generic;
 
-namespace Algorithms.Search
+namespace Algorithms.Sorter
 {
     public static class ShellSorter
     {
