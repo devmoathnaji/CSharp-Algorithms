@@ -49,6 +49,7 @@
     <Compile Include="Sorter\CombSorter.cs" />
     <Compile Include="Sorter\CountingSorter.cs" />
     <Compile Include="Sorter\CycleSorter.cs" />
+    <Compile Include="Sorter\GnomeSorter.cs" />
     <Compile Include="Sorter\ShellSorter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
